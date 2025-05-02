@@ -1,0 +1,14 @@
+[project]
+name = "mlops_labs"
+version = "0.1.0"
+description = "MLOps labs project"
+authors = [{name="Ton Nom"}]
+readme = "README.md"
+requires-python = ">=3.8"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["register_ex/src", "unit_testing_best_practice/src"]
