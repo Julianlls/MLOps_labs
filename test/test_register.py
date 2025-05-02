@@ -1,11 +1,8 @@
 import pytest
-import sys
+# import sys
+# sys.path += ['/Users/julianlilas/Desktop/MLOps/mlops_labs/register_ex/src']
 
-from register_ex.src.register import is_valid_username
-
-sys.path += ['/Users/julianlilas/Desktop/MLOps/mlops_labs/register_ex/src']
-
-from register import *
+from mlops_labs.register_ex.register import *
 
 def test_valid_username():
     assert is_valid_username("julien") is True
