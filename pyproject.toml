@@ -1,5 +1,5 @@
 [project]
-name = "mlops-labs"  # Ce nom doit être unique sur PyPI
+name = "mlops-labs-julls"  # Ce nom doit être unique sur PyPI
 version = "0.1.0"
 description = "MLOps labs project"
 authors = [{name = "Julianlls"}]
