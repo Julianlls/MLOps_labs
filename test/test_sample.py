@@ -6,3 +6,4 @@ from mlops_labs.unit_testing_best_practice.sample import *
 # test code
 def test_answer():
     assert func(4) == 5
+    
