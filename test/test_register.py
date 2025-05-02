@@ -1,4 +1,5 @@
 import pytest
+
 # import sys
 # sys.path += ['/Users/julianlilas/Desktop/MLOps/mlops_labs/register_ex/src']
 
