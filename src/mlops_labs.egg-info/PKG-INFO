@@ -1,8 +1,9 @@
 Metadata-Version: 2.4
-Name: mlops_labs
+Name: mlops-labs
 Version: 0.1.0
 Summary: MLOps labs project
-Author: Ton Nom
+Author: Julianlls
+Project-URL: Homepage, https://github.com/Julianlls/MLOps_labs
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
 
