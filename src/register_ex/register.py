@@ -39,15 +39,15 @@ def register_user():
 def is_prime(number):
     if number < 2:
         return False
-    for n in range(2, math.floor(math.sqrt(number) + 1)): 
+    for n in range(2, math.isqrt(number) + 1):
         if number % n == 0:
             return False
     return True
 
 def input_is_prime():
-    number = input("number to check if prime: ")
+    number = int(input("number to check if prime: "))
 
-    if is_prime(number) is True:
+    if is_prime(number):
         return "It is a prime number"
 
     else:

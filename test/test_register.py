@@ -40,17 +40,19 @@ def test_register_user_invalid_username(monkeypatch):
     monkeypatch.setattr("builtins.input", lambda _: next(inputs))
     assert register_user() == "Invalid username"
 
-def test_is_prime(monkeypatch):
-    inputs = iter([2,3,5,23])
+def test_are_prime(monkeypatch):
+    inputs = iter([2,3,5,7])
 
     monkeypatch.setattr("builtins.input", lambda _: next(inputs))
-    assert input_is_prime() == "It is a prime number"
+    for i in [2,3,5,6]:
+        assert input_is_prime() == "It is a prime number"
 
 def test_is_not_prime(monkeypatch):
     inputs = iter([4,6,8,9,10])
 
     monkeypatch.setattr("builtins.input", lambda _: next(inputs))
-    assert input_is_prime() == "It is not a prime number"
+    for i in [4,6,8,9,10]:    
+        assert input_is_prime() == "It is not a prime number"
 
 def test_is_prime():   
     assert is_prime(3) is True
