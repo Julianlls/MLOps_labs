@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/julianlilas/Desktop/MLOps/mlops_labs/experiment_tracking_lab/mlruns/754155614540208486/d681bf81cede490389505fcf99732806/artifacts
+end_time: 1749063499233
+entry_point_name: ''
+experiment_id: '754155614540208486'
+lifecycle_stage: active
+run_id: d681bf81cede490389505fcf99732806
+run_name: victorious-carp-672
+run_uuid: d681bf81cede490389505fcf99732806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749063497649
+status: 3
+tags: []
+user_id: julianlilas

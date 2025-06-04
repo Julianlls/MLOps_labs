@@ -1,0 +1,6 @@
+artifact_location: file:///Users/julianlilas/Desktop/MLOps/mlops_labs/experiment_tracking_lab/mlruns/754155614540208486
+creation_time: 1749063396140
+experiment_id: '754155614540208486'
+last_update_time: 1749063396140
+lifecycle_stage: active
+name: wine_quality_experiment

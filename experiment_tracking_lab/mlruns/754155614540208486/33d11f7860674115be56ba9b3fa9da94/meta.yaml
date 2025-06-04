@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/julianlilas/Desktop/MLOps/mlops_labs/experiment_tracking_lab/mlruns/754155614540208486/33d11f7860674115be56ba9b3fa9da94/artifacts
+end_time: 1749063503309
+entry_point_name: ''
+experiment_id: '754155614540208486'
+lifecycle_stage: active
+run_id: 33d11f7860674115be56ba9b3fa9da94
+run_name: selective-cat-240
+run_uuid: 33d11f7860674115be56ba9b3fa9da94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749063502051
+status: 3
+tags: []
+user_id: julianlilas

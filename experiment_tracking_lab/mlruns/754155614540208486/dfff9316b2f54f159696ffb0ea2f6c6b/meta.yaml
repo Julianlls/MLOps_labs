@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/julianlilas/Desktop/MLOps/mlops_labs/experiment_tracking_lab/mlruns/754155614540208486/dfff9316b2f54f159696ffb0ea2f6c6b/artifacts
+end_time: 1749063501280
+entry_point_name: ''
+experiment_id: '754155614540208486'
+lifecycle_stage: active
+run_id: dfff9316b2f54f159696ffb0ea2f6c6b
+run_name: masked-eel-318
+run_uuid: dfff9316b2f54f159696ffb0ea2f6c6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749063500005
+status: 3
+tags: []
+user_id: julianlilas
